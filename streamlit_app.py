@@ -20,7 +20,7 @@ image6 = Image.open('13.PNG')
 
 # Set the title of the app
 st.title('Workflow für Revit-User')
-st.write('Am Beispiel des DS-Elements "Fahrbahnplatte" werden die Parameter mit dem kostenlosen Revit Plugin "ParaManager" (diroots.com)  in 5 Schritten einfach, schnell und fehlerfrei eingespielt.')
+st.write('Am Beispiel des Datenstruktur-Elements "Fahrbahnplatte" werden die Parameter mit dem kostenlosen Revit-Plugin "ParaManager" in 5 Schritten einfach, schnell und fehlerfrei eingespielt.')
 
 '---'
 
